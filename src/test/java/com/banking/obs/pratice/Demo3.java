@@ -11,7 +11,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Demo3 {
+public class ProKabbadi {
 
 	public static void main(String[] args) {
 		WebDriverManager.chromedriver().setup();
