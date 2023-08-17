@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite">
+	<groups>
+		<run></run>
+			<inculde name="Rgression"></inculde>
+			
+		</<run></run>>
+	</<groups>>
+  <test thread-count="5" name="Test4" >
+    <classes>
+      <class name="com.banking.obs.pratice.CreateCust"/>
+      <class name="com.banking.obs.pratice.DeleteCust"/>
+    </classes>
+  </test> <!-- Test4 -->
+</suite> <!-- Suite -->
