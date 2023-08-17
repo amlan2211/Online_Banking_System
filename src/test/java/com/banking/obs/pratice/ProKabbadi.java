@@ -10,7 +10,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Demo2 {
+public class ProKabbadi {
 
 	public static void main(String[] args) 
 	{
